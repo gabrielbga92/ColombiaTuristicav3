@@ -1,0 +1,80 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation = "vertical"
+    tools:context="gabrielgarcia.popav3.InicioFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/PinkIce">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/popayan2"
+
+            android:scaleType="fitCenter"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/mapasicon"
+            android:layout_gravity="center"
+            android:id="@+id/bInicio"/>
+
+        <TextView
+            style="@style/textViewStyle.Title"
+            android:text="\n SEMANA SANTA EN POPAYAN \n"
+
+            />
+
+
+        <ImageView
+            android:layout_width="330dp"
+            android:layout_height="300dp"
+            android:paddingTop="16dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingBottom="16dp"
+            android:layout_gravity="center"
+            android:src="@drawable/viernesanto"
+            android:scaleType="centerCrop"/>
+
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="300dp"
+            android:paddingTop="16dp"
+            android:layout_gravity="center"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingBottom="16dp"
+            android:src="@drawable/semanasanta"
+            android:scaleType="fitCenter"/>
+
+        <TextView
+            style="@style/textViewStyle.Title"
+            android:text="\n CONGRESO GASTRONOMICO \n"
+
+            />
+
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="300dp"
+            android:src="@drawable/congresogastro"
+            android:layout_gravity="center"
+            android:paddingTop="16dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingBottom="16dp"
+            android:scaleType="centerCrop"/>
+
+
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,30 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="gabrielgarcia.popav3.PlazuelaFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        style = "@style/linearLayoutStyle">
+        <TextView
+            style = "@style/textViewStyle.Title"
+            android:text="@string/hotel2"/>
+        <TextView
+            style = "@style/textViewStyle.Content"
+            android:text="Dir: Calle 5 No. 8-13 Tel:+(572) 8241084"/>
+        <ImageView
+            style = "@style/imageViewStyle"
+            android:src="@drawable/hotel2"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/mapasicon"
+            android:layout_gravity="center"
+            android:id="@+id/bPlazuela"/>
+
+    </LinearLayout>
+
+</FrameLayout>
+
+

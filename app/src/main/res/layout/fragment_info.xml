@@ -1,0 +1,57 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="gabrielgarcia.popav3.InfoFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:id="@+id/SCROLLER_ID"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical"
+        android:fillViewport="true">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/PinkIce">
+
+        <ImageView
+            android:layout_width="450dp"
+            android:layout_height="250dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="16dp"
+            android:paddingBottom="16dp"
+            android:layout_gravity="center"
+
+            android:src="@drawable/popayan2"/>
+        <TextView
+            android:id="@+id/textolargo"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textAlignment="center"
+            android:textColor="@color/MarronIce"
+            android:textAppearance="?attr/textAppearanceSmallPopupMenu"
+            android:text="@string/popa"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textAlignment="center"
+            android:textColor="@color/MarronIce"
+            android:textAppearance="?attr/textAppearanceSmallPopupMenu"
+            android:text="@string/demograf"
+            />
+
+
+
+
+    </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

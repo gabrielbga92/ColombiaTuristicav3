@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Popa v3</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="popa">
+        Popayán es un municipio colombiano, capital del departamento del Cauca. Se encuentra localizado en el valle de Pubenza, entre la Cordillera Occidental y Central al suroccidente del país. Tienen 277 540 habitantes, de acuerdo a las proyecciones para el 2015 del censo del DANE (Departamento Administrativo Nacional de Estadísticas) elaborado en el año 2005.Su extensión territorial es de 512 km², su altitud media es de 1760 m sobre el nivel del mar, su precipitación media anual de 1.941 mm, su temperatura promedio de 14/19 °C y distancia aproximada de 600 km a Bogotá, capital de Colombia.\n\n
+        Es una de las ciudades más antiguas y mejor conservadas de América, lo que se ve reflejado en su arquitectura y tradiciones religiosas, reconocida por su arquitectura colonial y el cuidado de las fachadas que hacen parte de uno de los pocos sectores históricos del país. Popayán tiene uno de los Centros Históricos Coloniales más grandes del país y América, con un total aproximado de 236 Manzanas de Sector Histórico. \n\n
+        Ciudad Blanca de Colombia declarada por la UNESCO. En el 2005, la UNESCO designó a la ciudad de Popayán como Ciudad UNESCO de la Gastronomía por su variedad y significado para el patrimonio intangible de los colombianos. La cocina caucana fue seleccionada por mantener sus métodos tradicionales de preparación a través de la tradición oral. El 28 de septiembre de 2009 las Procesiones de Semana Santa de Popayán fueron declaradas por la UNESCO como Obra Maestra del Patrimonio Oral e Inmaterial de la Humanidad.\n\n
+
+
+    </string>
+    <string name="bares">Bares</string>
+    <string name="hoteles">Hoteles</string>
+    <string name="infoDemografia">Demografía</string>
+    <string name="sitios">Lugares Importantes</string>
+    <string name="acercad">About us</string>
+    <string name="title_activity_hotels">Hoteles</string>
+    <string name="title_activity_bares">Bares</string>
+    <string name="title_activity_sitios_turisticos">Sitios Turisticos</string>
+    <string name="title_activity_informacion_demografica">Informacion Demografica</string>
+    <string name="title_activity_acerca_de">Acerca De</string>
+    <string name="malabar">MalaBar Restaurante Café Bar</string>
+    <string name="moracast">Mora Castilla (Calle 2#4-44 tel:+57 2 8241513)</string>
+    <string name="vinilo">Vinilo Retro Bar </string>
+    <string name="boggie">Boogie Boogie Café </string>
+    <string name="hotel1">Hotel Dann Monasterio </string>
+    <string name="hotel2">Hotel La Plazuela</string>
+    <string name="hotel3">Hotel Los Balcones de Popayan </string>
+    <string name="sitioo1">Puente del Humilladero</string>
+    <string name="sitioo2">Torre del Reloj</string>
+    <string name="sitioo3">Museo Guillermo Leon Valencia</string>
+
+    <string name="puente">El puente del Humilladero sobre 12 arcos, además de cruzar el río Molino, sirvió para evitar la cuesta peatonal a la calle segunda. La cuesta era tan empinada que no se podía escalar sin inclinar la cabeza; de allí que se la llamaba del Humilladero. Los constructores del puente fueron: arquitecto e ingeniero fray Serafín Berbetti de la Orden Franciscana y el Jefe Municipal, Rafael García U. El gobernador de la Provincia, Vicente Cárdenas ordenó el inicio de los trabajos y comisionó al ingeniero E. Sawaski para levantar los planos y hacer el presupuesto.</string>
+    <string name="torre">La torre fue construida entre 1673 y 1682 bajo dirección del Obispo Cristóbal Bernaldo de Quiroz. El terremoto de 1736 no la afectó y al año siguiente, el padre Bueno donó el reloj de un solo puntero que le da el nombre. El terremoto de 1983 le causó averías, las cuales fueron hábilmente reparadas sin mover uno solo de los noventa mil ladrillos que forman su estructura.</string>
+    <string name="museo">El museo cuenta con tres salas de exhibición que dan cuenta de la vida y obra de Guillermo León Valencia a través del registro fotográfico de momentos muy íntimos de su vida familiar y del ejercicio político que lo llevó a los diferentes cargos públicos que desempeñó antes y después de conquistar la Presidencia de la República.</string>
+    <string name="boton">Ver Mapa</string>
+    <!--<string-array name="listabares">-->
+    <!--<item>MalaBar Restaurante Café Bar (Cra. 5 #2-41 tel: 820 8694)</item>-->
+    <!--<item>Mora Castilla (Calle 2#4-44 tel:+57 2 8241513)</item>-->
+    <!--<item>Vinilo Retro Bar (Carrera 6ª, Popayán, Cauca)</item>-->
+    <!--<item>Boogie Boogie Café (Cra 9 # 18n - 40 local 7 Hotel San Matin)</item>-->
+
+    <!--</string-array>-->
+
+    <!--<string-array name="listahoteles">-->
+    <!--<item>Hotel Dann Monasterio</item>-->
+    <!--<item>Hotel La Plazuela</item>-->
+    <!--<item>Hotel Los Balcones Popayan</item>-->
+    <!--</string-array>-->
+
+    <!--<string-array name="listasitios">-->
+    <!--<item>Puente del Humilladero</item>-->
+    <!--<item>Torre del Reloj</item>-->
+
+    <!--<item>Museo Guillermo Leon Valencia</item>-->
+
+    <!--</string-array>-->
+    <string name="demograf">Extension(km2): 483.11 \n Habitantes:270.000 aprox \n Altitud de la cabecera municipal (metros sobre el nivel del mar): 1.735 mts \n Temperatura media: 19º </string>
+
+    <string-array name="listademografia">
+        <item>Extension(km2): 483.11</item>
+        <item>Habitantes:270.000 aprox</item>
+        <item>Altitud de la cabecera municipal (metros sobre el nivel del mar): 1.735 mts</item>
+        <item>Temperatura media: 19º Cº</item>
+    </string-array>
+
+    <string-array name="listadatosper">
+        <item>Creador: Gabriel R.B. García</item>
+        <item>Contacto: 3168848894</item>
+        <item>Email: gabrielbga92@gmail.com</item>
+        <item>Mediante el uso de las herramientas proporcionadas por la compañía Google como Android Studio y los sistemas operativos como marshmallow se desarrolló Popa una aplicación Turistica sobre el municipio de Popayán Cauca.</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

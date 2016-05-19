@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Popav3</string>
+    <string name="action_settings">Settings</string>
+    <string name="popa">
+        Popayan, is a Colombian municipality, capital of the department of Cauca. It is located in the valley of Pubenza between the Western Cordillera Central and southwest of the country. Have 277,540 inhabitants, according to projections for 2015 Census DANE (National Administrative Department of Statistics) developed in 2005. Its territorial extension is 512 km², its average altitude is 1760 m above sea level its annual rainfall of 1,941 mm, the average temperature of 14/19 ° C and approximate distance of 600 km from Bogota, capital of Colombia.\n\n
+        It is one of the oldest and best preserved of American cities, which is reflected in its architecture and religious traditions, known for its colonial architecture and care of the facades that are part of one of the few historical sectors. Popayán has one of the largest historical centers of the country and Colonial America, with a total of 236 apples approximately Historical Sector.\n\n
+        White City of Colombia declared by UNESCO. In 2005, UNESCO designated the city of Popayan as UNESCO City of Gastronomy for its variety and meaning for the intangible heritage of Colombians. The kitchen caucana was selected to maintain their traditional methods of preparation through the oral tradition. On 28 September 2009 the processions of Holy Week Popayan were declared by UNESCO as a Masterpiece of Oral and Intangible Heritage of Humanity.\n\n
+
+
+    </string>
+    <string name="bares">Bars</string>
+    <string name="hoteles">Hotels</string>
+    <string name="infoDemografia">Demography</string>
+    <string name="sitios">Important places</string>
+    <string name="acercad">About us</string>
+    <string name="title_activity_hotels">Hotels</string>
+    <string name="title_activity_bares">Bars</string>
+    <string name="title_activity_sitios_turisticos">Tourist Sites</string>
+    <string name="title_activity_informacion_demografica">Demographic information</string>
+    <string name="title_activity_acerca_de">About us</string>
+    <string name="malabar">MalaBar Restaurant Coffe Bar (Cra. 5 #2-41 tel: 820 8694)</string>
+    <string name="moracast">Mora Castilla (Calle 2#4-44 tel:+57 2 8241513)</string>
+    <string name="vinilo">Vinilo Retro Bar (Carrera 6ª, Popayán, Cauca)</string>
+    <string name="boggie">Boogie Boogie Coffee (Cra 9 # 18n - 40 local 7 Hotel San Matin)</string>
+    <string name="hotel1">Hotel Dann Monasterio (Dir: Cl. 4 #10-14 Tel:(2) 8242191)</string>
+    <string name="hotel2">Hotel La Plazuela(Dir: Calle 5 No. 8-13 Tel:+(572) 8241084)</string>
+    <string name="hotel3">Hotel Los Balcones Popayan (Dir:# 2-75, Cra.7 Tel:(2) 8242030)</string>
+    <string name="sitioo1">Puente del Humilladero</string>
+    <string name="sitioo2">Torre del Reloj</string>
+    <string name="sitioo3">Museo Guillermo Leon Valencia</string>
+
+    <string name="puente">Humilladero bridge of 12 arches, besides crossing the Mill River, served to avoid the pedestrian costs the second street. The slope was so steep that you could not climb without tilting the head; hence it was called the Shrine. Bridge builders were: architect and engineer Fray Serafin Berbetti of the Franciscan Order and the Municipal Chief, Rafael Garcia U. The governor of the province, Vicente Cardenas ordered the start of the work and commissioned the engineer E. Sawaski to lift planes and make the budget.</string>
+    <string name="torre">The tower was built between 1673 and 1682 under the direction of Bishop Christopher Bernaldo de Quiroz. The earthquake did not affect 1736 and the following year, Father Good donated the clock a single pointer that gives the name. The 1983 earthquake caused breakdowns, which were skillfully repaired without moving one of the ninety thousand bricks that form the structure.</string>
+    <string name="museo">The museum has three exhibition rooms that realize the life and work of Guillermo Leon Valencia through the photographic record very intimate moments of family life and political exercise that led to the different public positions he held before and after to win the Presidency of the Republic.</string>
+    <string name="boton">Map View</string>
+    <!--<string-array name="listabares">-->
+    <!--<item>MalaBar Restaurante Café Bar (Cra. 5 #2-41 tel: 820 8694)</item>-->
+    <!--<item>Mora Castilla (Calle 2#4-44 tel:+57 2 8241513)</item>-->
+    <!--<item>Vinilo Retro Bar (Carrera 6ª, Popayán, Cauca)</item>-->
+    <!--<item>Boogie Boogie Café (Cra 9 # 18n - 40 local 7 Hotel San Matin)</item>-->
+
+    <!--</string-array>-->
+
+    <!--<string-array name="listahoteles">-->
+    <!--<item>Hotel Dann Monasterio</item>-->
+    <!--<item>Hotel La Plazuela</item>-->
+    <!--<item>Hotel Los Balcones Popayan</item>-->
+    <!--</string-array>-->
+
+    <!--<string-array name="listasitios">-->
+    <!--<item>Puente del Humilladero</item>-->
+    <!--<item>Torre del Reloj</item>-->
+
+    <!--<item>Museo Guillermo Leon Valencia</item>-->
+
+    <!--</string-array>-->
+
+    <string-array name="listademografia">
+        <item>Extension(km2): 483.11</item>
+        <item>Population:270.000 aprox</item>
+        <item>Altitude of the municipal head (meters above sea level): 1.735 mts</item>
+        <item>Media Temperature: 19º Cº</item>
+    </string-array>
+
+    <string-array name="listadatosper">
+        <item>Creator: Gabriel R.B. García</item>
+        <item>Contact: 3168848894</item>
+        <item>Email: gabrielbga92@gmail.com</item>
+        <item>By using the tools provided by the company as Google Android Studio and operating systems as marshmallow Popa developed a tourist application on the town of Popayan Cauca.</item>
+    </string-array>
+
+
+</resources>
